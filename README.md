@@ -6,7 +6,7 @@ ADVENTURE - A simple website of a tourism agency for tourists.
  -  Pure HTML, CSS, JavaScript used
  
  
-http://127.0.0.1:5500/index.html#about
+http://127.0.0.1:5500/index.html
 
 ## 👓 Preview
 
